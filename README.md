@@ -23,14 +23,17 @@ Data Handling: CSV file upload & REST API
 
 git clone https://github.com/yourusername/youtube-audience-analyzer.git
 
+
 --> Install backend dependencies:
 
 cd backend
 pip install -r requirements.txt
 
+
 --> Run the backend:
 
 python run.py
+
 
 --> Serve the frontend:
 
