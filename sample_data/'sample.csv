@@ -1,0 +1,11 @@
+views,watch_time,country,age_group,gender,device_type,traffic_source,date
+1500,2250,United States,18-24,Male,Mobile,YouTube Search,2024-01-01
+2300,3450,India,25-34,Female,Desktop,Browse Features,2024-01-01
+890,1335,United Kingdom,35-44,Male,Mobile,Suggested Videos,2024-01-01
+1200,1800,Canada,18-24,Female,Tablet,External,2024-01-01
+3400,5100,Brazil,25-34,Male,Desktop,YouTube Search,2024-01-02
+750,1125,Germany,45-54,Female,Mobile,Direct,2024-01-02
+1800,2700,Australia,18-24,Male,Mobile,Browse Features,2024-01-02
+2100,3150,France,25-34,Female,Desktop,Suggested Videos,2024-01-02
+950,1425,Japan,35-44,Male,Tablet,YouTube Search,2024-01-03
+1400,2100,Mexico,18-24,Female,Mobile,External,2024-01-03
