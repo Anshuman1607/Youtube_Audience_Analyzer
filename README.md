@@ -18,7 +18,7 @@ Frontend: HTML, CSS, JavaScript, Chart.js
 
 Data Handling: CSV file upload & REST API
 
-Getting Started
+# Getting Started
 Clone the repo:
 git clone https://github.com/yourusername/youtube-audience-analyzer.git
 Install backend dependencies:
