@@ -19,20 +19,23 @@ Frontend: HTML, CSS, JavaScript, Chart.js
 Data Handling: CSV file upload & REST API
 
 # Getting Started
-Clone the repo:
-git clone https://github.com/yourusername/youtube-audience-analyzer.git
-Install backend dependencies:
+--> Clone the repo:
 
-bash
+git clone https://github.com/yourusername/youtube-audience-analyzer.git
+
+--> Install backend dependencies:
+
 cd backend
 pip install -r requirements.txt
-Run the backend:
 
-bash
+--> Run the backend:
+
 python run.py
-Serve the frontend:
 
-bash
+--> Serve the frontend:
+
 cd frontend
+
 python -m http.server 3000
+
 Visit http://localhost:3000, upload a CSV, and explore your analytics!
