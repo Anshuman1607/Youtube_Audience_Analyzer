@@ -1,8 +1,8 @@
-YouTube Audience Analyzer
+# YouTube Audience Analyzer
 
 YouTube Audience Analyzer is a full-stack web app that enables creators, marketers, and data enthusiasts to upload YouTube analytics CSV files and instantly visualize audience data through interactive dashboards and charts.
 
-Features
+# Features
 Upload and analyze YouTube audience CSV data
 
 Automatically validates, cleans, and summarizes input
