@@ -11,7 +11,7 @@ Interactive visualizations: age, country, device, gender, watch time trends
 
 Responsive dashboard built with Chart.js
 
-Tech Stack
+# Tech Stack
 Backend: FastAPI, Python, Pandas
 
 Frontend: HTML, CSS, JavaScript, Chart.js
